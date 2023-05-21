@@ -16,3 +16,7 @@ class ActiveSkillTest(unittest.TestCase):
 
 class PassiveSkillTest(unittest.TestCase):
     """Unitt tests for the PassiveSkill class"""
+
+
+if __name__ == "__main__":
+    unittest.main()

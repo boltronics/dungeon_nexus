@@ -15,3 +15,7 @@ class PartyTest(unittest.TestCase):
 
 class CharacterTest(unittest.TestCase):
     """Unit tests for the Character class"""
+
+
+if __name__ == "__main__":
+    unittest.main()

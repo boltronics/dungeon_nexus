@@ -11,3 +11,7 @@ class EnemyTest(unittest.TestCase):
 
 class TrapTest(unittest.TestCase):
     """Unit tests for the Trap class"""
+
+
+if __name__ == "__main__":
+    unittest.main()

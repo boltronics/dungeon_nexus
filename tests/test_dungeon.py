@@ -15,3 +15,7 @@ class FloorPlanTest(unittest.TestCase):
 
 class MapTest(unittest.TestCase):
     """Unit tests for the Map class"""
+
+
+if __name__ == "__main__":
+    unittest.main()
