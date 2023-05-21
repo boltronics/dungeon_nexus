@@ -1,5 +1,6 @@
 import re
 from pathlib import PurePath
+
 from setuptools import setup
 
 regexp = re.compile(r".*__version__ = [\'\"](.*?)[\'\"]", re.S)
