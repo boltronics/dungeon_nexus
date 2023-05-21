@@ -1,6 +1,6 @@
 """Obstacle classes"""
 
-from unit import Unit
+from .unit import Unit
 
 
 class Enemy(Unit):

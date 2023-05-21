@@ -2,7 +2,7 @@
 
 import unittest
 
-import dungeon_nexus.dungeon
+import dungeon_nexus.unit
 
 
 class UnitTest(unittest.TestCase):

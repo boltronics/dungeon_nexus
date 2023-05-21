@@ -3,7 +3,7 @@
 
 import unittest
 
-import dungeon_nexus.dungeon
+import dungeon_nexus.skill
 
 
 class SkillTest(unittest.TestCase):
